@@ -3,7 +3,6 @@ MIT License
 
 Copyright (c) [2020] [DHAVAL BHAILALBHAI PATEL]<br>
 Copyright (c) [2020] [VEDANG PANDYA]
-<br><b>Requirements<b><br>
 	<ul><b>PROBLEM STATEMENT<b><br>
 		<li><b>AREA OF INTEREST <b><br></li>
 		<li><b>PROBLEM DEFINITION<b><br></li>
