@@ -1,9 +1,9 @@
 ﻿<b><br>This project was made by Dhaval Patel and vedang Pandya for advance artificial neural network course taken at University of regina.<b><br>
 MIT License
 
-Copyright (c) [2020] [DHAVAL BHAILALBHAI PATEL]
+Copyright (c) [2020] [DHAVAL BHAILALBHAI PATEL]<br>
 Copyright (c) [2020] [VEDANG PANDYA]
-<b>Requirements<b><br>
+<br><b>Requirements<b><br>
 	<ul><b>PROBLEM STATEMENT<b><br>
 		<li><b>AREA OF INTEREST <b><br></li>
 		<li><b>PROBLEM DEFINITION<b><br></li>
